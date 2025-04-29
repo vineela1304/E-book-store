@@ -49,8 +49,7 @@ This is a full-featured E-Book Store web application built using the **MERN Stac
 Make sure you have **Node.js**, **npm**, and **MongoDB** installed on your system.
 
 ### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/ebook-store.git
+git clone https://github.com/vineela1304/E-book-store
 
 2️⃣ Start the Backend (Server)
 Navigate to the backend directory, install the dependencies, and start the server:
